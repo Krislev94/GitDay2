@@ -6,4 +6,7 @@ public class Cart {
     // total
     // discount
 
+    // deals
+
+    // new changes
 }
