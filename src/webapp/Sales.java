@@ -15,4 +15,8 @@ public class Sales {
 
     // christmas sale
 
+    // Thanksgiving sale 20%
+
+    // deals
+
 }
