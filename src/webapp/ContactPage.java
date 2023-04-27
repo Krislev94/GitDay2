@@ -8,5 +8,11 @@ public class ContactPage {
 
     // facebook
 
+    // youtube
+
+    // tiktok
+
+    // email
+
 
 }
